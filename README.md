@@ -142,7 +142,7 @@
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor (Dritter) | Link |
   |---------------------------------|--------------------|----------------|------|
-  | **Animationen**                 |                    |                |      |
+  | **Animationen**                 |                    |                |      | *Alle Animationen sind von https://www.mixamo.com/#/* 
   |                                 | Drinking           |                |      |
   |                                 | standing Idel      |                |      |
   |                                 | daumen hoch, sitzen|                |      |
