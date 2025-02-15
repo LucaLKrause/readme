@@ -99,26 +99,20 @@
 ## Eigenleistung
 
 ###Eigene Werke
-  | Kategorie         |     Name           | Autor (du)      | Link |
-  |-------------------|--------------------|----------------|------|
-  | **Animationen**   |                    |                |      |
-  |                   |                    |                |      |
-  |                  |                    |                |      |
-  | **Bilder**       |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Sounds**       |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Eigene 3D-Modelle** |                |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Skripte**      |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Shader-Graph** |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
+  | Kategorie         |     Name           |     
+  |-------------------|--------------------|
+  | **Eigene 3D-Modelle** |                |                     
+  |                  |      3D Modelle Asset (Ordner)|                      
+  |                  |      Deko (Ordner)            |    
+    |                  |  Deko für Gläser (Ordner)   | 
+    |                  |    Fluessigkeit (Ordner)    |  
+    |                  |    Gläser (Ordner)          |    
+  | **Skripte**      |                    |                     
+  |                  |                    |                      
+  |                  |                    |                      
+  | **Shader-Graph** |                    |                      
+  |                  |                    |                    
+  |                  |                    |                     
   
 ###Fremde Werke
   | Kategorie         |      Name          | Autor (Dritter) | Link |
