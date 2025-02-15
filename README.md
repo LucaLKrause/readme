@@ -163,8 +163,8 @@
   | **Bilder**                      |                    |                |      |
   |                                 | Space UI pack      | 	Deketele Creations                | https://dante-deketele.itch.io/simple-space-ui-pack     |
   |                                 | Freie notebook Mockup Vektor| freepick  |https://de.freepik.com/vektoren-kostenlos/freie-notebook-mockup-vektor_726387.htm      |
-  |                                 | KOko Caramel       |      ---       |https://uigradients.com/#NeonLife      |
-  |                                 |                    |                |      |
+  |                                 | Koko Caramel       |      ---       |https://uigradients.com/#NeonLife      |
+  |                                 |chat bubbles, to chat with, chat bubbles png |      ---       |https://www.pngegg.com/en/png-ddmoy |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
