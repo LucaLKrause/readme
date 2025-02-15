@@ -1,6 +1,7 @@
 # README
 
 ## Projektname
+*Behind The Bar*
 
 ## Projektziel
 *Behind The Bar ist ein VR-Lernspiel, in dem der Spieler die Rolle des Barkeepers einnimmt und Erfahrungen mit dem Mixen von Getränken sammelt.*
@@ -19,23 +20,22 @@
 
 *!!!Was muss der PC können!!!*
 
-*Software: Windows 11*
+*Software: Windows 11, !!!APP!!!*
 
 ## Benutzung
 *Vor dem Start der .exe musst du sicherstellen, dass die Oculus angeschlossen und die Oculus-App gestartet ist, damit die Brille und die Controller erkannt werden.*
 
 *Insgesamt gibt es drei Modi: Tutorial, Anfänger und Experte.*
 
-*Das Ziel des Spiels ist es, die Rezepte zu verinnerlichen und sie im Expertenmodus ohne Hilfe umsetzen zu können.*
+*Das Ziel des Spiels ist es, die Rezepte im Anfängermodus zu verinnerlichen und sie im Expertenmodus ohne Hilfe umsetzen zu können.*
 
 ## Contribution / Entwicklung
+
+### Aufsetzen der Entwicklungsumgebung
 *Die verwendete Unity-Version lautet "Unity (2022.3.45f1)".*
 
 *Verwendete Unity-Packages:*
 **
-
-### Aufsetzen der Entwicklungsumgebung
-*Details zum Aufsetzen der Entwicklungsumgebung.*
 
 ### Dokumentation der Software
 *Hinweise zur Dokumentation der Software.*
