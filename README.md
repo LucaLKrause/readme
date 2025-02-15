@@ -11,9 +11,7 @@
 ## Installation & Voraussetzungen
 *!!!Link zum Ordner einfuegen!!!*
 
-*!!! Wie instaliere ich die datei!!!*
-
-*Vorausetzungen:*
+*!!!Wie instaliere ich die datei!!!*
 
 *Hardware:*
 
