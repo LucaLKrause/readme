@@ -3,7 +3,7 @@
 ## Projektname
 
 ## Projektziel
-*Kurze Beschreibung des Projektziels in einem Satz.*
+*Behind The Bar ist ein VR-Lernspiel in dem der Spieler die Rolle des Barkeepers einnimt und Erfahrungen mit dem Mixen von Getraenken sammelt*
 
 ## Credits
 *Namen der beteiligten Entwickler.*
