@@ -41,7 +41,32 @@
 *Hinweise zur Dokumentation der Software.*
 
 ### Ordnerstruktur
-*Beschreibung der Ordnerstruktur im Projekt.*
+- **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
+  - **Notwendige Pakete/** → Beinhaltet die erforderlichen Pakete für das Projekt.
+  - **Projekt/** → Hauptordner für projektspezifische Einstellungen und Daten.
+  - **Affordance Theme/** → Thematische Assets und Einstellungen.
+  - **Farben/** → Farbpaletten und Farbschemata.
+  - **Images/** → Bilder, Icons und Grafiken.
+  - **Menu Assets/** → Assets für Menüs und Benutzeroberflächen.
+  - **NPC/** → Enthält Assets für nicht-spielbare Charaktere.
+  - **Prefabs/** → Vorgefertigte Objektvorlagen.
+    - **Materials für Prefabs/** → Materialien, die speziell für die Prefabs erstellt wurden.
+    - **Prefab für Tablet/** → Spezielles Prefab für Tablet-Objekte.
+  - **3D Modelle Asset/** → 3D-Modelle, die im Projekt verwendet werden.
+  - **Checkliste/** → Checklisten und ToDo-Listen für das Projektmanagement.
+  - **Deko/** → Dekorative Elemente.
+    - **Deko für Gläser/** → Dekor für Glasobjekte.
+  - **Flaschen/** → Assets für Flaschen-Objekte.
+  - **Flüssigkeit/** → Enthält Flüssigkeitseffekte oder -simulationen.
+  - **Gläser/** → Modelle oder Assets von Gläsern.
+  - **Shader Flüssigkeit/** → Shader für Flüssigkeitseffekte.
+  - **Skripte/** → Alle Skripte und Code-Dateien.
+  - **Sounds/** → Audio-Dateien, Musik und Soundeffekte.
+  - **Tablet Asset/** → Assets, die speziell für Tablet-Anwendungen vorgesehen sind.
+- **Scenes/** → Beinhaltet alle Spiel-Level und Menü-Szenen.
+- **Umgebung/** → Enthält Umgebungsdaten und Szeneneinstellungen.
+- **Unity, VisualScripting, Generated/** → Automatisch generierte Dateien (Unity, Visual Scripting etc.).
+- **XR/** → Assets für erweiterte Realität (AR/VR) und XR-Anwendungen.
 
 ## Eigenleistung
 *Kurze Beschreibung der Eigenleistung im Projekt.*
