@@ -104,43 +104,39 @@
   | **Eigene 3D-Modelle** |                |                     
   |                  |      3D Modelle Asset (Ordner)|                      
   |                  |      Deko (Ordner)            |    
-  |                  |  Deko für Gläser (Ordner)   | 
-  |                  |    Fluessigkeit (Ordner)    |  
-  |                  |    Gläser (Ordner)          |    
-  | **Skripte**      |                    | 
-                      |  BarlöffelAudio.cs  
-                      | Behälter.cs  
-                      |  DeckelSocketInteraction.cs  
-                      |  DrinkDisplayUI.cs  
-                      |  DrinkRecepies.cs  
-                      |  DrinkRecipeModel.cs  
-                      |  FillAnimation.cs  
-                      |  Fillspices.cs  
-                      |  FillstandHUD.cs  
-                      |  FillstandHUDJigger.cs  
-                      |  FillistundHUDShaker.cs  
-                      |  HoverTextController.cs  
-                      |  HUDFollowCamara.cs  
-                      |  Jigger.cs  
-                      | JiggerAttachPoints.cs  
-                      |LeaveScene.cs  
-                      |  Mülleimer.cs  
-                      |  ObjektAnvisieren.cs  
-                      |  RespawnObject.cs  
-                      |  RespawnObjectForMülleimer.cs  
-                      |  SelectDrink.cs  
-                      |  Shaker.cs  
-                      |  Sprechblase.cs  
-                      |  Spülbecken.cs  
-                      |  StößelAudio.cs  
-                      |  TabletNavigation.cs  
-                      |  TestDetecter.cs  
-                      |  TestDetecterExpert.cs  
-                      |  Tutorial Sprechblasen.cs  
-                      | Zuckerl.öffel.cs
-                     
-  |                  |                    |                      
-  |                  |                    |                      
+  |                  |  Deko für Gläser (Ordner)     | 
+  |                  |    Fluessigkeit (Ordner)      |  
+  |                  |    Gläser (Ordner)            |    
+  | **Skripte**      |                               | 
+  |                  |  BarlöffelAudio.cs            |
+  |                  | Behälter.cs                   |
+  |                  |  DeckelSocketInteraction.cs   |
+  |                  |  DrinkDisplayUI.cs            |
+  |                  |  DrinkRecepies.cs             |
+  |                  |  DrinkRecipeModel.cs          |
+  |                  |  FillAnimation.cs             |
+  |                  |  Fillspices.cs                |
+  |                  |  FillstandHUD.cs              |
+  |                  |  FillstandHUDJigger.cs        |
+  |                  |  FillistundHUDShaker.cs       |
+  |                  |  HoverTextController.cs       |
+  |                  |  HUDFollowCamara.cs           |
+  |                  |  Jigger.cs                    |
+  |                  | JiggerAttachPoints.cs         |
+  |                  |LeaveScene.cs                  |
+  |                  |  Mülleimer.cs                 |
+  |                  |  ObjektAnvisieren.cs          |
+  |                  |  RespawnObject.cs             |
+  |                  |  RespawnObjectForMülleimer.cs |
+  |                  |  SelectDrink.cs               |
+  |                  |  Shaker.cs                    |
+  |                  |  Spülbecken.cs                |
+  |                  |  StößelAudio.cs               |
+  |                  |  TabletNavigation.cs          |
+  |                  |  TestDetecter.cs              |
+  |                  |  TestDetecterExpert.cs        |
+  |                  |  Tutorial Sprechblasen.cs     |  
+  |                  | Zuckerl.öffel.cs              |                                   
   | **Shader-Graph** |                    |                      
   |                  |                    |                    
   |                  |                    |                     
