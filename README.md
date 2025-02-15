@@ -137,30 +137,39 @@
   |                  |  TestDetecterExpert.cs        |
   |                  |  Tutorial Sprechblasen.cs     |  
   |                  | Zuckerl.öffel.cs              | 
-  |                  | MenuManager.cs                |   	                                      
-  | **Shader-Graph** |                    |                      
-  |                  |                    |                    
-  |                  |                    |                     
+  |                  | MenuManager.cs                |   	                                                        
   
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor (Dritter) | Link |
   |---------------------------------|--------------------|----------------|------|
   | **Animationen**                 |                    |                |      |
-  |                                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Bilder**       |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Sounds**       |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **3D-Modelle und Materialien**   |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Skripte**      |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
-  | **Shader-Graph** |                    |                |      |
-  |                  |                    |                |      |
-  |                  |                    |                |      |
+  |                                 | Drinking           |                |      |
+  |                                 | standing Idel      |                |      |
+  |                                 | daumen hoch, sitzen|                |      |
+  |                                 | letzte talk        |                |      |
+  |                                 | nod                |                |      |
+  |                                 | Normal Sitzen      |                |      |
+  |                                 | Pointing           |                |      |
+  |                                 | SCHACH             |                |      |
+  |                                 | sit                |                |      |
+  |                                 | Sitzen hand bewegung    |                |      |
+  |                                 | Sitzen und Arm Kratzen  |                |      |
+  |                                 | Sitzen und reden        |                |      |
+  |                                 | stand talk              |                |      |
+  |                                 | talking            |                |      |
+  | **Bilder**                      |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  | **Sounds**                      |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  | **3D-Modelle und Materialien**  |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  | **Skripte**                     |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  | **Shader-Graph**                |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
 
