@@ -97,8 +97,9 @@
 - **Packages/** → Alle Pakete, die für die Ausführung des Projekts relevant sind.
 
 ## Eigenleistung
+
 ###Eigene Werke
-  | Kategorie         | Eigene Werke - Name  | Autor (du)      | Link |
+  | Kategorie         |     Name           | Autor (du)      | Link |
   |-------------------|--------------------|----------------|------|
   | **Animationen**   |                    |                |      |
   |                   |                    |                |      |
@@ -118,25 +119,26 @@
   | **Shader-Graph** |                    |                |      |
   |                  |                    |                |      |
   |                  |                    |                |      |
-
-| Kategorie         |  -Name  | Autor (Dritter) | Link |
-|-------------------|--------------------|----------------|------|
-| **Animationen**   |                    |                |      |
-|                  |          dsuifghbndshfbguksdhfgbnkusdhfgushuisgdo          |                |      |
-|                  |                    |                |      |
-| **Bilder**       |                    |                |      |
-|                  |                    |                |      |
-|                  |                    |                |      |
-| **Sounds**       |                    |                |      |
-|                  |                    |                |      |
-|                  |                    |                |      |
-| **3D-Modelle**   |                    |                |      |
-|                  |                    |                |      |
-|                  |                    |                |      |
-| **Skripte**      |                    |                |      |
-|                  |                    |                |      |
-|                  |                    |                |      |
-| **Shader-Graph** |                    |                |      |
-|                  |                    |                |      |
-|                  |                    |                |      |
+  
+###Fremde Werke
+  | Kategorie         |      Name          | Autor (Dritter) | Link |
+  |-------------------|--------------------|----------------|------|
+  | **Animationen**   |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
+  | **Bilder**       |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
+  | **Sounds**       |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
+  | **3D-Modelle**   |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
+  | **Skripte**      |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
+  | **Shader-Graph** |                    |                |      |
+  |                  |                    |                |      |
+  |                  |                    |                |      |
 
