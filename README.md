@@ -14,9 +14,13 @@
 *!!! Wie instaliere ich die datei!!!*
 
 *Vorausetzungen:*
+
 *Hardware:*
+
 *Oculus Rift S und ihre Controller*
+
 *!!!was muss der PC koennen!!!*
+
 *Software: Windows 11*
 
 ## Benutzung
