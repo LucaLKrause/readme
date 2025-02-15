@@ -6,7 +6,8 @@
 *Behind The Bar ist ein VR-Lernspiel in dem der Spieler die Rolle des Barkeepers einnimt und Erfahrungen mit dem Mixen von Getraenken sammelt*
 
 ## Credits
-*Namen der beteiligten Entwickler.*
+*Phillip Trompetter 
+Luca-Leon Krause*
 
 ## Installation & Voraussetzungen
 *Details zu den Installationsvoraussetzungen.*
