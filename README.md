@@ -11,7 +11,7 @@
 ## Installation & Voraussetzungen
 *!!!Link zum Ordner einfuegen!!!*
 
-*!!!Wie instaliere ich die datei: git clone *<repo-url>*!!!*
+*!!!Wie instaliere ich die datei: git clone <repo-url>!!!*
 
 *Hardware:*
 
