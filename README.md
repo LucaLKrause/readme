@@ -106,7 +106,8 @@
   |                  |      Deko (Ordner)            |    
   |                  |  Deko für Gläser (Ordner)     | 
   |                  |    Fluessigkeit (Ordner)      |  
-  |                  |    Gläser (Ordner)            |    
+  |                  |    Gläser (Ordner)            | 
+  |                  |  SalzPfeffer (Ordner)         |  
   | **Skripte**      |                               | 
   |                  |  BarlöffelAudio.cs            |
   |                  | Behälter.cs                   |
