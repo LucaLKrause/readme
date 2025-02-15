@@ -22,9 +22,16 @@
 *Software: Windows 11*
 
 ## Benutzung
-*Kurze Anleitung zur Benutzung des Projekts.*
+*Vor dem Start der .exe musst du sicherstellen, das doe Oculus angeschlossen und die Oculus app gestartet ist, damit die Brille und die Controller angeschlossen sind.*
+
+*Insgesamt gibt drei Modi. Tutorial, Anfaenger und Experte*
+
+*Das Game hat nur das Ziel, dass du es schaffst die Rezepte zu verinnerlichen und sie im Expert Modus ohne Hilfe umsetzen kannst*
 
 ## Contribution / Entwicklung
+*Die verwendete Unitz Version lautet "Unity(2022.3.45f1)"*
+
+*Verwendete Unity-
 
 ### Aufsetzen der Entwicklungsumgebung
 *Details zum Aufsetzen der Entwicklungsumgebung.*
