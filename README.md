@@ -35,7 +35,33 @@
 *Die verwendete Unity-Version lautet "Unity (2022.3.45f1)".*
 
 *Verwendete Unity-Packages:*
-**
+*Burst*  
+*Core RP Library*  
+*Custom NUnit*  
+*Input System* 
+*JetBrains Rider Editor*  
+*Mathematics*  
+*Oculus XR Plugin*  
+*OpenXR Plugin*  
+*Post Processing*  
+*ProBuilder*  
+*Searcher*  
+*Settings Manager*  
+*Shader Graph*  
+*Test Framework* 
+*TextMeshPro*  
+*Timeline*  
+*Unity UI*  
+*Universal RP*  
+*Universal RP Config*  
+*Version Control*  
+*Visual Scripting*  
+*Visual Studio Code Editor*  
+*Visual Studio Editor*  
+*XR Core Utilities*  
+*XR Interaction Toolkit*  
+*XR Legacy Input Helpers*  
+*XR Plugin Management*
 
 ### Dokumentation der Software
 *Hinweise zur Dokumentation der Software.*
