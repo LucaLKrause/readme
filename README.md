@@ -3,40 +3,41 @@
 ## Projektname
 
 ## Projektziel
-*Behind The Bar ist ein VR-Lernspiel in dem der Spieler die Rolle des Barkeepers einnimt und Erfahrungen mit dem Mixen von Getraenken sammelt*
+*Behind The Bar ist ein VR-Lernspiel, in dem der Spieler die Rolle des Barkeepers einnimmt und Erfahrungen mit dem Mixen von Getränken sammelt.*
 
 ## Credits
 *Phillip Trompetter & Luca-Leon Krause*
 
 ## Installation & Voraussetzungen
-*!!!Link zum Ordner einfuegen!!!*
+*!!!Link zum Ordner einfügen!!!*
 
-*!!!Wie instaliere ich die datei: git clone <repo-url>!!!*
+*!!!Wie installiere ich die Datei: git clone <repo-url>!!!*
 
 *Hardware:*
 
 *Oculus Rift S und ihre Controller*
 
-*!!!was muss der PC koennen!!!*
+*!!!Was muss der PC können!!!*
 
 *Software: Windows 11*
 
 ## Benutzung
-*Vor dem Start der .exe musst du sicherstellen, das doe Oculus angeschlossen und die Oculus app gestartet ist, damit die Brille und die Controller angeschlossen sind.*
+*Vor dem Start der .exe musst du sicherstellen, dass die Oculus angeschlossen und die Oculus-App gestartet ist, damit die Brille und die Controller erkannt werden.*
 
-*Insgesamt gibt drei Modi. Tutorial, Anfaenger und Experte*
+*Insgesamt gibt es drei Modi: Tutorial, Anfänger und Experte.*
 
-*Das Game hat nur das Ziel, dass du es schaffst die Rezepte zu verinnerlichen und sie im Expert Modus ohne Hilfe umsetzen kannst*
+*Das Ziel des Spiels ist es, die Rezepte zu verinnerlichen und sie im Expertenmodus ohne Hilfe umsetzen zu können.*
 
 ## Contribution / Entwicklung
-*Die verwendete Unitz Version lautet "Unity(2022.3.45f1)"*
+*Die verwendete Unity-Version lautet "Unity (2022.3.45f1)".*
 
-*Verwendete Unity-
+*Verwendete Unity-Packages:*
+**
 
 ### Aufsetzen der Entwicklungsumgebung
 *Details zum Aufsetzen der Entwicklungsumgebung.*
 
-### Dokumentation des Software
+### Dokumentation der Software
 *Hinweise zur Dokumentation der Software.*
 
 ### Ordnerstruktur
