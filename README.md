@@ -98,7 +98,7 @@
 
 ## Eigenleistung
 
-###Eigene Werke
+###Eigene Werke (von Phillip Trompetter und Luca-Leon Krause)
   | Kategorie         |     Name           |     
   |-------------------|--------------------|
   | **Eigene 3D-Modelle** |                |                     
