@@ -67,7 +67,7 @@
 ### Dokumentation der Software
 
 
-```plantuml
+
 @startuml
 
 class Behälter {
@@ -111,7 +111,7 @@ class Behälter {
 }
 
 @enduml
-```
+
 
 ### Ordnerstruktur
 - **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
