@@ -66,7 +66,10 @@
 
 ### Dokumentation der Software
 
-![Diagram](https://github.com/user-attachments/assets/de1df50c-f19b-4dde-bd87-276735847ea1)
+*Da wir eine Vielzahl an Skripten haben, habe wir nur die wichtigsten als UML-Klassendiagramm umgesetzt*
+
+*!!!Bild hier einfuegen!!!*
+
 
 
 
