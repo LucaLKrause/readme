@@ -14,23 +14,23 @@
 
 *!!!Wie installiere ich die Datei: git clone <repo-url>!!!*
 
-*Hardware(Brille und PC der Uni):*
+- *Hardware(Brille und PC der Uni):*
 
-*Oculus Rift S und ihre Controller*
+  - *Oculus Rift S und ihre Controller*
 
-*Processor: Intel(R) Xeon(R) W-2235 3.8Ghz*
+  - *Processor: Intel(R) Xeon(R) W-2235 3.8Ghz*
 
-*Grafikkarte: NVIDIA Quadro RTX 4000*
+  - *Grafikkarte: NVIDIA Quadro RTX 4000*
 
-*Arbeitsspeicher: 32GB*
+  - *Arbeitsspeicher: 32GB*
 
-*SDD: 2TB*
+  - *SDD: 2TB*
 
-*HDD: 2TB*
+  - *HDD: 2TB*
 
-*Software:*
+- *Software:*
 
-*Meta Quest Link*
+  - *Meta Quest Link*
 
 ## Benutzung
 *Vor dem Start der .exe musst du sicherstellen, dass die Oculus angeschlossen und die Oculus-App gestartet ist, damit die Brille und die Controller erkannt werden.*
