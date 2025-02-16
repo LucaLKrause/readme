@@ -12,11 +12,11 @@
 ## Installation & Voraussetzungen
 *!!!Link zum Ordner einfügen!!!*
 
-*Um das Spiel zu instalieren kann man einfach das Repo entweder mit "git clone """ klonen, oder eine .zip direkt hier bei git herunterladen und anschließend die .exe im !!!Name Ordner!!! ausführen*
+*Um das Spiel zu instalieren kann man einfach das Repo entweder mit "git clone """ klonen, oder eine .zip direkt hier bei git herunterladen und anschließend die .exe im "Release" Ordner ausführen*
 
 - *Hardware(Brille und PC der Uni):*
 
-  - *Oculus Rift S und ihre Controller*
+  - *Oculus Rift S + beide Touch Controller*
 
   - *Processor: Intel(R) Xeon(R) W-2235 3.8Ghz*
 
@@ -31,10 +31,18 @@
 - *Software:*
 
   - *Meta Quest Link*
+  - *Gegebenenfalls Unity, wenn man in die Projektdatei möchte (mehr dazu unter "Aufsetzen der Entwicklungsumgebung"*
 
 ## Benutzung
 *Vor dem Start der .exe musst du sicherstellen, dass die Oculus angeschlossen und die Oculus-App gestartet ist, damit die Brille und die Controller erkannt werden.*
 
+- *Steuerung:* 
+  - *Linkter Stick: Bewegung*
+  - *Rechter Stick: Drehen*
+  - *Griff Tasten: Greifen der Komponenten*
+  - *Trigger Tasten: Auswahl bzw. Buttons betätigen*
+  - *Menü Button: Rückehr ins Hauptmenü*
+  
 *Insgesamt gibt es drei Modi: Tutorial, Anfänger und Experte.*
 
 *Das Ziel des Spiels ist es, die Rezepte im Anfängermodus zu verinnerlichen und sie im Expertenmodus ohne Hilfe umsetzen zu können.*
