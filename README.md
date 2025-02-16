@@ -69,29 +69,34 @@
 
 ### Ordnerstruktur
 - **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
-  - **Notwendige Pakete/** → Beinhaltet die erforderlichen Pakete für das Projekt.
+  - **Notwendige Pakete/** → Bwinhaltet Unity-Pakete wie z.B. XR.
   - **Projekt/** → Hauptordner für projektspezifische Einstellungen und Daten.
-    - **Affordance Theme/** → Thematische Assets und Einstellungen.
+    - **Affordance Theme/** → Visuelle Feedback-Elemente für interaktive Objekte.
     - **Farben/** → Farbpaletten und Farbschemata.
-    - **Images/** → Bilder, Icons und Grafiken.
-    - **Menu Assets/** → Assets für Menüs und Benutzeroberflächen.
-    - **NPC/** → Enthält Assets für nicht-spielbare Charaktere.
-    - **Prefabs/** → Vorgefertigte Objektvorlagen.
-      - **Materials für Prefabs/** → Materialien, die speziell für die Prefabs erstellt wurden.
+    - **Images/** → Texturen und Bilder (z. B. für Tablet-UI).
+    - **Menu Assets/** → Skripte, Fonts und Audio für Menü Szene.
+    - **NPC/** → Animationen des Getränke-testenden NPCs.
+    - **Prefabs/** → Wiederverwendbare Objekte und Komponenten.
+      - **Materials für Prefabs/** → Materialien für Prefab-Objekte (z. B. Glas, Metall).
       - **Prefab für Tablet/** → Spezielles Prefab für Tablet-Objekte.
       - **3D Modelle Asset/** → 3D-Modelle, die im Projekt verwendet werden.
-      - **Checkliste/** → Checklisten und ToDo-Listen für das Projektmanagement.
+      - **Checkliste/** → UI-Prefabs für die interaktive Aufgabenliste.
       - **Deko/** → Dekorative Elemente.
       - **Deko für Gläser/** → Dekor für Glasobjekte.
-      - **Flaschen/** → Assets für Flaschen-Objekte.
-      - **Flüssigkeit/** → Enthält Flüssigkeitseffekte oder -simulationen.
+      - **Flaschen/** → Vordefinierte Flaschen-Prefabs mit Flüssigkeitslogik.
+      - **Flüssigkeit/** → Effekte für Tropfen und Flüssigkeitsbewegung.
       - **Gläser/** → Modelle oder Assets von Gläsern.
-    - **Shader Flüssigkeit/** → Shader für Flüssigkeitseffekte.
+    - **Shader Flüssigkeit/** → Custom Shader für realistische Flüssigkeitssimulation in Gläsern.
     - **Skripte/** → Alle Skripte und Code-Dateien.
     - **Sounds/** → Audio-Dateien, Musik und Soundeffekte.
-    - **Tablet Asset/** → Assets, die speziell für Tablet-Anwendungen vorgesehen sind.
+    - **Tablet Asset/** → Externes 3D-Tablet-Modell (aus dem Asset Store).
   - **Scenes/** → Beinhaltet alle Spiel-Level und Menü-Szenen.
-  - **Umgebung/** → Enthält Umgebungsdaten und Szeneneinstellungen.
+    - **Menu** → Hauptmenü.
+    - **Tutorial** → Lernmodus.
+    - **Anfänger** → Modus mit Anleitung.
+    - **Experte** → Modus ohne Hilfe.
+    - **Basic/Tutorial** → Entwicklertests.
+  - **Umgebung/** → 3D-Modelle und Texturen für die Barumgebung (z.B. Tische, Theke, Wände etc.).
   - **Unity, VisualScripting, Generated/** → Automatisch generierte Dateien (Unity, Visual Scripting etc.).
   - **XR/** → Assets für erweiterte Realität (AR/VR) und XR-Anwendungen.
 - **Packages/** → Alle Pakete, die für die Ausführung des Projekts relevant sind.
@@ -157,9 +162,9 @@
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor          | Link |
   |---------------------------------|--------------------|----------------|------|
-  | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich                                                |  
-  |                                 | Drinking           |                |                                                                                                                                         |
-  |                                 | standing Idel      |                |                                                                                                                                         |
+  | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
+  |                                 | Drinking           |                |      |
+  |                                 | standing Idel      |                |      |
   |                                 | daumen hoch, sitzen|                |      |
   |                                 | letzte talk        |                |      |
   |                                 | nod                |                |      |
