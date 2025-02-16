@@ -142,7 +142,7 @@
   |                  | MenuManager.cs                |   	                                                        
   
 ###Fremde Werke
-  | Kategorie                       |      Name          | Autor (Dritter) | Link |
+  | Kategorie                       |      Name          | Autor          | Link |
   |---------------------------------|--------------------|----------------|------|
   | **Animationen**                 |                    | Keine Autoren Bekannt               | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
   |                                 | Drinking           |                |      |
@@ -161,10 +161,16 @@
   |                                 | talking            |                |      |
   |                                 |                    |                |      |
   | **Bilder**                      |                    |                |      |
-  |                                 | Space UI pack      | 	Deketele Creations                | https://dante-deketele.itch.io/simple-space-ui-pack     |
-  |                                 | Freie notebook Mockup Vektor| freepick  |https://de.freepik.com/vektoren-kostenlos/freie-notebook-mockup-vektor_726387.htm      |
-  |                                 | Koko Caramel       |      ---       |https://uigradients.com/#NeonLife      |
+  |                                 | Space UI pack      | 	Deketele Creations                | https://dante-deketele.itch.io/simple-space-ui-pack|
+  |                                 | Freie notebook Mockup Vektor| freepick  |https://de.freepik.com/vektoren-kostenlos/freie-notebook-mockup-vektor_726387.htm|
+  |                                 | Koko Caramel       |      ---       |https://uigradients.com/#NeonLife|
   |                                 |chat bubbles, to chat with, chat bubbles png |      ---       |https://www.pngegg.com/en/png-ddmoy |
+  |                                 |Vodka-E             |spirituosenworld|Vodka-E https://spirituosenworld.de/cocktails/vodka-e?srsltid=AfmBOoraustO-ehZ3amfooxdJafK3KScgGFk14qS_jG6URC7A68_yxqR|
+  |                                 |Long Island Iced Tea|      ---       |https://www.bargpt.app/ai-cocktail-recipe/long-island-iced-tea7506 |
+  |                                 |Manhattan Cocktail  |Slawomir Fajer  |https://www.essen-und-trinken.de/rezepte/59761-rzpt-manhattan-cocktail|
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
