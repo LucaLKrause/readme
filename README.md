@@ -171,6 +171,14 @@
   |                                 |                    |                |      |
   |                                 |                    |                |      |
   | **Sounds**                      |                    |                |      |
+  |                                 | glug glug glug     | IwanPlays      |https://pixabay.com/de/sound-effects/glug-glug-glug-39140/ |
+  |                                 | martini_shake_pour | philberts      |https://pixabay.com/de/sound-effects/martini-shake-pour-34765/|
+  |                                 | Stirring a cup of coffee | greatnessdon |https://pixabay.com/de/sound-effects/stirring-a-cup-of-coffee-193831/|
+  |                                 | Squeezing Lemon    | PhilllChabbb   |https://pixabay.com/de/sound-effects/squeezing-lemon-72629/|
+  |                                 | Drink pour         | mfearnley      |https://pixabay.com/de/sound-effects/drink-pour-7169/|
+  |                                 | Water Pour and Drink     | joeboarder14    |https://pixabay.com/de/sound-effects/water-pour-and-drink-73447/|
+  |                                 | Podcast Jazz Waltz Cozy Relaxing Vibes  | Denis-Pavlov-Music |https://pixabay.com/music/traditional-jazz-podcast-jazz-waltz-cozy-relaxing-vibes-233733/|
+  |                                 |                    |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
   | **3D-Modelle und Materialien**  |                    |                |      |
