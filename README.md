@@ -306,7 +306,7 @@ TabletNavigation --> DrinkRecipeModell
 
 
 @enduml
-```
+
 
 ### Ordnerstruktur
 - **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
