@@ -157,7 +157,7 @@
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor          | Link |
   |---------------------------------|--------------------|----------------|------|
-  | **Animationen**                 |                    | Keine Autoren Bekannt               | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
+  | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
   |                                 | Drinking           |                |      |
   |                                 | standing Idel      |                |      |
   |                                 | daumen hoch, sitzen|                |      |
@@ -204,29 +204,21 @@
   |                                 |                    |                |      |
   | **3D-Modelle und Materialien**  |                    |                |      |
   |                                 |VR-Game-Jam-Template|Valem Tutorials |https://github.com/ValemVR/VR-Game-Jam-Template|
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
+  |                                 |Stylized NPC - Peasant Nolant (DEMO) |WINGED BOOTS STUDIO|      |
+  |                                 |Real Stars Skybox Lite|GEOFF DALLIMORE|      |
+  |                                 |Low Poly Chess Pack |BROKEN VECTOR   |      |
+  |                                 |Low-Poly Simple Nature Pack|JUSTCREATE|      |
+  |                                 |3D Low Poly Tools, Weapons & Containers|NEXUSARCADESTUDIO|      |
+  |                                 |WasteOvergrowth - Comprehensive Trash and Waste Pack|SENTE-ASSEMBLY|      |
+  |                                 |Gold Coins          |DEVTOID         |      |
+  |                                 |Cabin Environment   |GREGORY SEGURU  |      |
+  |                                 |Free Wood Door Pack |BIOSTART        |      |
+  |                                 |PBR Materials Sampler Pack|INTEGRITY SPFTWARE & GAMES|      |
+  |                                 |World Materials Free|AVIONX          |      |
+  |                                 |Kitchen Furniture Starterpack|MAVI3D |      |
+  |                                 |Bar / Interior - Functional Low Poly assets|FRIES and SEAGULL|      |
+  |                                 |Bar Props           |SIMPLEMODELSFORME|      |
+  |                                 |Stylized Wood Textures|CAMISADO STUDIOS|      |
   |                                 |                    |                |      |
   | **Skripte**                     |                    |                |      |
   |                                 |AudioManager.cs     |Valem Tutorials |https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
