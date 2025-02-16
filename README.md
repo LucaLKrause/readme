@@ -66,6 +66,7 @@
 
 ### Dokumentation der Software
 
+```plantuml
 @startuml
 ' ---------- Klassen mit Assoziationen ----------
 
@@ -305,7 +306,7 @@ TabletNavigation --> DrinkRecipeModell
 
 
 @enduml
-
+```
 
 ### Ordnerstruktur
 - **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
