@@ -139,7 +139,19 @@
   |                  |  TestDetecterExpert.cs        |
   |                  |  Tutorial Sprechblasen.cs     |  
   |                  | Zuckerl.öffel.cs              | 
-  |                  | MenuManager.cs                |   	                                                        
+  |                  | MenuManager.cs                |
+  | **Bilder**       |                               |                
+  |                  |Barlöffel                      |                
+  |                  | Shaker                        |               
+  |                  | Jigger                        |
+  |                  |  Stößel                       |
+  |                  |  Teelöffel                    |
+  |                  | Tumbler Glas                  |
+  |                  |Longdrink Glas                 |
+  |                  | Hurricane Glas                |
+  |                  | Coupette Glas                 |
+  |                  | Cocktail Glas                 | 
+  
   
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor          | Link |
@@ -165,7 +177,7 @@
   |                                 | Freie notebook Mockup Vektor| freepick  |https://de.freepik.com/vektoren-kostenlos/freie-notebook-mockup-vektor_726387.htm|
   |                                 | Koko Caramel       |      ---       |https://uigradients.com/#NeonLife|
   |                                 |chat bubbles, to chat with, chat bubbles png |    ---    |https://www.pngegg.com/en/png-ddmoy |
-  |                                 |Vodka-E             |spirituosenworld|Vodka-E https://spirituosenworld.de/cocktails/vodka-e?srsltid=AfmBOoraustO-ehZ3amfooxdJafK3KScgGFk14qS_jG6URC7A68_yxqR|
+  |                                 |Vodka-E             |spirituosenworld|https://spirituosenworld.de/cocktails/vodka-e?srsltid=AfmBOoraustO-ehZ3amfooxdJafK3KScgGFk14qS_jG6URC7A68_yxqR|
   |                                 |Long Island Iced Tea|      ---       |https://www.bargpt.app/ai-cocktail-recipe/long-island-iced-tea7506 |
   |                                 |Manhattan Cocktail  |Slawomir Fajer  |https://www.essen-und-trinken.de/rezepte/59761-rzpt-manhattan-cocktail|
   |                                 |Negroni             |Evgeny Karandae |https://www.essen-und-trinken.de/rezepte/59764-rzpt-negroni|
