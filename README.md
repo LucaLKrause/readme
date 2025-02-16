@@ -157,9 +157,9 @@
 ###Fremde Werke
   | Kategorie                       |      Name          | Autor          | Link |
   |---------------------------------|--------------------|----------------|------|
-  | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
-  |                                 | Drinking           |                |      |
-  |                                 | standing Idel      |                |      |
+  | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich                                                |  
+  |                                 | Drinking           |                |                                                                                                                                         |
+  |                                 | standing Idel      |                |                                                                                                                                         |
   |                                 | daumen hoch, sitzen|                |      |
   |                                 | letzte talk        |                |      |
   |                                 | nod                |                |      |
