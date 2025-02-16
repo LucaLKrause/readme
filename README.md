@@ -66,7 +66,245 @@
 
 ### Dokumentation der Software
 
+@startuml
+' ---------- Klassen mit Assoziationen ----------
 
+class Behälter {
+    - Dictionary<string, int> tagCounters
+    - int füllMengeMax = 350
+    - int füllMenge = 0
+    - GameObject flüssigkeitInhalt
+    - float startFill
+    - float currentFill
+    - float maxFill
+    - bool nurEinmal = false
+    - HashSet<string> booleanTags
+    - HashSet<string> füllMengeTags
+    - Verschiedene Booleans für Zutaten (z.B. istBraunerZucker, istEiswürfel, ...)
+    - GameObject eisPrefab
+    - GameObject crushedIcePrefab
+    - Transform spawnPoint
+    - GameObject Prefabs für Dekorationen (z.B. zitronePrefab, minzblattPrefab, ...)
+    - Transform Spawnpunkte für Dekorationen (z.B. scheibenSpawnPoint, minzblattSpawnPoint, ...)
+    - HashSet<GameObject> pendingObjects
+    - Dictionary<GameObject, Coroutine> activeCoroutines
+    
+    + void Start()
+    + void OnTriggerEnter(Collider other)
+    + void OnTriggerExit(Collider other)
+    + IEnumerator WaitBeforeSetBoolean(string tag, GameObject obj)
+    + void SpawnPrefab(GameObject prefab, Transform spawnPoint)
+    + void Update()
+    + void UpdateFill()
+    + void SetBooleanForTag(string tag)
+    + Dictionary<string, int> GetTagCounters()
+    + void SetzeBooleans(bool eiswürfel, bool crushedIce)
+    + void ErhalteInhalt(string tag, int menge)
+    + void SetIstMixer(bool mixerStatus)
+    + void SetIstBraunerZucker(bool value)
+    + void SetIstWeißerZucker(bool value)
+    + void SetIstSalz(bool value)
+    + void SetIstPfeffer(bool value)
+    + void SetIstTabasco(bool value)
+    + void SetIstWorcestersauce(bool value)
+}
+
+class FillAnimation {
+    +GameObject tropfenPrefab
+    +GameObject[] tropfenPrefabs
+    +Transform parentObject
+    +float tiltThreshold
+    +float spawnRate
+    +float tropfenSpeed
+    +float tropfenSize
+    +string flüssigkeitTag
+    +Vector3 spawnPoint
+    -float spawnTimer
+    +AudioSource audioSource
+    +AudioClip tropfenSound
+    -bool isSpawning
+    +void Start()
+    +void Update()
+    +void SpawnTropfen()
+    +bool IsTilted()
+    +float GetTiltAngle()
+    +void StartTropfenSound()
+    +void StopTropfenSound()
+}
+
+class TestDetecter {
+    + string currentDrink
+    + TabletNavigation tabletNavigation
+    + DrinkDisplayUI drinkDisplayUI
+    + Animator animator
+    + string boolParameterName
+    + bool toggleBool
+    - GameObject clonedObject
+    + Transform targetParent
+    + AudioSource audioSource
+    + AudioClip audioClip
+  
+    + void Start()
+    + void Update()
+    + void OnTriggerEnter(Collider other)
+    - IEnumerator ResetToggleBool()
+    - IEnumerator PlaySoundAfterDelay(float delay)
+    - void EvaluateDrink(Behälter objScript, Collider other)
+    - string EvaluateQuantities(DrinkRecipeModell recipe, Dictionary<string, int> tagCounters)
+    - bool EvaluateSpecialIngredients(DrinkRecipeModell recipe, Behälter objScript)
+    - bool EvaluateTools(DrinkRecipeModell recipe, Behälter objScript)
+    - bool EvaluateDecorations(DrinkRecipeModell recipe, Behälter objScript)
+    - bool CheckSpecialIngredient(string special, Behälter objScript)
+    - bool CheckTool(string tool, Behälter objScript)
+    - bool CheckDecoration(string garnish, Behälter objScript)
+    - bool IsCorrectGlass(Collider other)
+    - string GetExpectedGlass()
+}
+
+class DrinkDisplayUI {
+    + GameObject drinkCanvas
+  + Transform checklistContainer
+  + GameObject checklistItemPrefab
+  - Coroutine hideCanvasCoroutine
+  + GameObject coinPrefab
+  + Transform[] coinSpawnPositions
+  - List<GameObject> spawnedCoins
+
+  + void ShowDrinkChecklist(DrinkRecipeModell recipe, Dictionary<string, int> tagCounters, Behälter objScript, Collider other)
+  - void AddChecklistItems(Dictionary<string, int> requiredItems, Dictionary<string, int> actualItems)
+  - void AddChecklistItems(List<string> requiredItems, Behälter objScript)
+  - void AddGlassChecklistItem(string requiredGlass, Collider other)
+  - void AddChecklistItem(string itemName, bool isChecked)
+  - IEnumerator FixChecklistPosition()
+  - bool CheckItemPresence(string item, Behälter objScript)
+  + void HideDrinkFacts()
+  - IEnumerator HideCanvasAfterDelay(float delay)
+  + void SpawnCoins(string rating)
+  + void ResetCoins()
+}
+
+class Shaker {
+    - Dictionary<string, int> tagCounters
+  + int füllMengeMax
+  + int füllMenge
+  + GameObject flüssigkeitObject
+  + float startFill
+  + float currentFill
+  + float maxFill
+
+  + bool istBraunerZucker
+  + bool istWeißerZucker
+  + bool istSalz
+  + bool istPfeffer
+  + bool istTabasco
+  + bool istWorcestersauce
+  + bool istBarlöffel
+  + bool istMixer
+
+  - HashSet<string> booleanTags
+  - HashSet<string> füllMengeTags
+
+  - GameObject zielBehälter
+  - Transform parentTransform
+  - Vector3 lastParentPosition
+  - Vector3 lastVelocity
+
+  - float shakeSensitivity
+  - float shakeTimer
+  - float requiredShakeTime
+
+  + DeckelSocketInteraction deckelSocketInteraction
+
+  - AudioSource shakeSound
+  + AudioClip shakingClip
+
+  - AudioSource umfüllenSound
+  + AudioClip umfüllenClip
+  - bool umfüllenSoundAbgespielt
+
+  + void Start()
+  + void Update()
+  - bool IsShaking()
+  + void OnTriggerEnter(Collider other)
+  + void ErhalteInhalt(string inhaltTag, int menge)
+  + void UpdateFill()
+  - void SetBooleanForTag(string tag)
+  + Dictionary<string, int> GetTagCounters()
+  - void ÜbertrageInhaltAnBehälter(Behälter behälterScript)
+}
+
+class Jigger {
+    + int füllMengeMax
+  + int füllMenge
+  + string aktuelleFlüssigkeit
+  + GameObject flüssigkeitObject
+  + float startFill
+  + float currentFill
+  + float maxFill
+  + DeckelSocketInteraction deckelSocketInteraction
+  + AudioSource audioSource
+  + AudioClip soundClip
+  
+  - bool soundAbgespielt
+  - readonly HashSet<string> erlaubteFlüssigkeiten
+
+  + void Start()
+  + void OnTriggerEnter(Collider other)
+  + void Update()
+  + void UpdateFill()
+}
+
+class TabletNavigation {
+    + GameObject mainScreen
+  + GameObject[] pages
+  + Button[] pageButtons
+  + Button[] backButtons
+  + Button[] selectButtons
+  + string[] drinkNames
+  + GameObject shieldPrefab
+  + string selectedDrink
+  - Button lastSelectedButton
+  - GameObject lastShield
+  - Button lastSelectedPageButton
+
+  + void Start()
+  + void ShowMainScreen()
+  + void ShowPage(int index)
+  + void SelectDrink(int index)
+}
+
+class DrinkRecipeModell {
+     - ingredients: Dictionary<string, int>
+  - specialItems: List<string>
+  - tools: List<string>
+  - deko: List<string>
+  - glasBehälter: string
+  + DrinkRecipeModell(ingredients: Dictionary<string, int>, specialItems: List<string>, tools: List<string>, deko: List<string>, glasBehälter: string)
+}
+
+' ---------- Assoziationen ----------
+
+TestDetecter --> DrinkDisplayUI 
+TestDetecter --> Behälter 
+TestDetecter --> TabletNavigation 
+
+DrinkDisplayUI --> Behälter 
+DrinkDisplayUI --> DrinkRecipeModell 
+
+Shaker --> Behälter 
+Shaker --> FillAnimation
+
+Jigger --> Behälter 
+Jigger --> FillAnimation 
+
+Behälter --> FillAnimation 
+Behälter --> DrinkRecipeModell 
+
+TabletNavigation --> DrinkRecipeModell
+
+
+
+@enduml
 
 
 ### Ordnerstruktur
