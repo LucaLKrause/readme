@@ -140,6 +140,7 @@
   |                  |  Tutorial Sprechblasen.cs     |  
   |                  | Zuckerl.öffel.cs              | 
   |                  | MenuManager.cs                |
+  |                  |                               |
   | **Bilder**       |                               |                
   |                  |Barlöffel                      |                
   |                  | Shaker                        |               
@@ -186,7 +187,6 @@
   |                                 |Whiskey Cola        |Lukas           |https://www.maltwhisky.de/whiskey-cola/|
   |                                 |Wodka Sou           |     ---        |https://www.schweppes.de/mixen/cocktails/wodka-sour|
   |                                 |Daiquiri            |                |      |
-  |                                 |                    |                |      |
   |                                 |                    |                |      |
   | **Sounds**                      |                    |                |      |
   |                                 | glug glug glug     | IwanPlays      |https://pixabay.com/de/sound-effects/glug-glug-glug-39140/ |
