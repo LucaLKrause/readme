@@ -204,21 +204,21 @@
   |                                 |                    |                |      |
   | **3D-Modelle und Materialien**  |                    |                |      |
   |                                 |VR-Game-Jam-Template|Valem Tutorials |https://github.com/ValemVR/VR-Game-Jam-Template|
-  |                                 |Stylized NPC - Peasant Nolant (DEMO) |WINGED BOOTS STUDIO|      |
-  |                                 |Real Stars Skybox Lite|GEOFF DALLIMORE|      |
-  |                                 |Low Poly Chess Pack |BROKEN VECTOR   |      |
-  |                                 |Low-Poly Simple Nature Pack|JUSTCREATE|      |
-  |                                 |3D Low Poly Tools, Weapons & Containers|NEXUSARCADESTUDIO|      |
-  |                                 |WasteOvergrowth - Comprehensive Trash and Waste Pack|SENTE-ASSEMBLY|      |
-  |                                 |Gold Coins          |DEVTOID         |      |
-  |                                 |Cabin Environment   |GREGORY SEGURU  |      |
-  |                                 |Free Wood Door Pack |BIOSTART        |      |
-  |                                 |PBR Materials Sampler Pack|INTEGRITY SPFTWARE & GAMES|      |
-  |                                 |World Materials Free|AVIONX          |      |
-  |                                 |Kitchen Furniture Starterpack|MAVI3D |      |
-  |                                 |Bar / Interior - Functional Low Poly assets|FRIES and SEAGULL|      |
-  |                                 |Bar Props           |SIMPLEMODELSFORME|      |
-  |                                 |Stylized Wood Textures|CAMISADO STUDIOS|      |
+  |                                 |Stylized NPC - Peasant Nolant (DEMO) |WINGED BOOTS STUDIO|https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/stylized-npc-peasant-nolant-demo-252440|
+  |                                 |Real Stars Skybox Lite|GEOFF DALLIMORE|https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333|
+  |                                 |Low Poly Chess Pack |BROKEN VECTOR   |https://assetstore.unity.com/packages/3d/props/low-poly-chess-pack-50405|
+  |                                 |Low-Poly Simple Nature Pack|JUSTCREATE|https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153|
+  |                                 |3D Low Poly Tools, Weapons & Containers|NEXUSARCADESTUDIO|https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153|
+  |                                 |WasteOvergrowth - Comprehensive Trash and Waste Pack|SENTE-ASSEMBLY|https://assetstore.unity.com/packages/3d/environments/wasteovergrowth-comprehensive-trash-and-waste-pack-290387|
+  |                                 |Gold Coins          |DEVTOID         |https://assetstore.unity.com/packages/3d/props/gold-coins-1810|
+  |                                 |Cabin Environment   |GREGORY SEGURU  |https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014|
+  |                                 |Free Wood Door Pack |BIOSTART        |https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509|
+  |                                 |PBR Materials Sampler Pack|INTEGRITY SPFTWARE & GAMES|https://assetstore.unity.com/packages/2d/textures-materials/pbr-materials-sampler-pack-40112|
+  |                                 |World Materials Free|AVIONX          |https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182|
+  |                                 |Kitchen Furniture Starterpack|MAVI3D |https://assetstore.unity.com/packages/3d/props/furniture/kitchen-furniture-starterpack-209331|
+  |                                 |Bar / Interior - Functional Low Poly assets|FRIES and SEAGULL|https://assetstore.unity.com/packages/3d/props/interior/bar-interior-functional-low-poly-assets-306976|
+  |                                 |Bar Props           |SIMPLEMODELSFORME|https://assetstore.unity.com/packages/3d/props/barprops-137130|
+  |                                 |Stylized Wood Textures|CAMISADO STUDIOS|https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-textures-213607|
   |                                 |                    |                |      |
   | **Skripte**                     |                    |                |      |
   |                                 |AudioManager.cs     |Valem Tutorials |https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
