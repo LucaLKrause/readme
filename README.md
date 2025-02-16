@@ -201,13 +201,39 @@
   |                                 |Caipirinha          | Gutekueche     |https://www.gutekueche.at/caipirinha-cocktail-rezept-17919|
   |                                 |Sex on the Beach    | Gutekueche     |https://www.gutekueche.at/sex-on-the-beach-cocktail-rezept-18119|
   |                                 |Bloody Mary         | Gutekueche     |https://www.gutekueche.at/sex-on-the-beach-cocktail-rezept-18119|
+  |                                 |                    |                |      |
   | **3D-Modelle und Materialien**  |                    |                |      |
-  |                                 |VR-Game-Jam-Template|Valem Tutorials |https://github.com/ValemVR/VR-Game-Jam-Template      |
-  |                                 |                    |                |      |
-  | **Skripte**                     |                    | Alle von Valem Tutorials| https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
-  |                                 |AudioManager.cs     |                |      |
-  |                                 |PlayAudioFromAudioManager.cs |       |      |
-  | **Shader-Graph**                |UIAudio.cs          |                |      |
+  |                                 |VR-Game-Jam-Template|Valem Tutorials |https://github.com/ValemVR/VR-Game-Jam-Template|
   |                                 |                    |                |      |
   |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  |                                 |                    |                |      |
+  | **Skripte**                     |                    |                |      |
+  |                                 |AudioManager.cs     |Valem Tutorials |https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
+  |                                 |PlayAudioFromAudioManager.cs | Valem Tutorials |https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
+  |                                 |UIAudio.cs          | Valem Tutorials|https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
+  |                                 |Wobble.cs           |Binary Lunar    |https://www.youtube.com/watch?v=eIZgPAZx56s|
+  |                                 |                    |                |      |
+  |  **Shader-Graph**               |                    |                |      |
+  |                                 |LiquidWobbleShader  |Binary Lunar    |https://www.youtube.com/watch?v=eIZgPAZx56s|
 
