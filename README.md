@@ -12,7 +12,7 @@
 ## Installation & Voraussetzungen
 *!!!Link zum Ordner einfügen!!!*
 
-*!!!Wie installiere ich die Datei: git clone <repo-url>!!!*
+*Um das Spiel zu instalieren kann man einfach das Repo entweder mit "git clone """ klonen, oder eine .zip direkt hier bei git herunterladen und anschließend die .exe im !!!Name Ordner!!! ausführen*
 
 - *Hardware(Brille und PC der Uni):*
 
