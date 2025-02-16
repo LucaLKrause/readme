@@ -110,7 +110,7 @@
 
 ## Eigenleistung
 
-###Eigene Werke (von Phillip Trompetter und Luca-Leon Krause)
+Eigene Werke (von Phillip Trompetter und Luca-Leon Krause)
   | Kategorie         |     Name           |     
   |-------------------|--------------------|
   | **Eigene 3D-Modelle** |                |                     
@@ -166,7 +166,7 @@
   |                  | Cocktail Glas                 | 
   
   
-###Fremde Werke
+Fremde Werke
   | Kategorie                       |      Name          | Autor          | Link |
   |---------------------------------|--------------------|----------------|------|
   | **Animationen**                 |                    | Keine Autoren Bekannt | Alle Animationen sind von https://www.mixamo.com/#/. Einzelne Links nicht möglich|  
