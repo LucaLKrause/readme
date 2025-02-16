@@ -168,8 +168,8 @@
   |                                 |Vodka-E             |spirituosenworld|Vodka-E https://spirituosenworld.de/cocktails/vodka-e?srsltid=AfmBOoraustO-ehZ3amfooxdJafK3KScgGFk14qS_jG6URC7A68_yxqR|
   |                                 |Long Island Iced Tea|      ---       |https://www.bargpt.app/ai-cocktail-recipe/long-island-iced-tea7506 |
   |                                 |Manhattan Cocktail  |Slawomir Fajer  |https://www.essen-und-trinken.de/rezepte/59761-rzpt-manhattan-cocktail|
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
+  |                                 |Negroni             |Evgeny Karandae |https://www.essen-und-trinken.de/rezepte/59764-rzpt-negroni|
+  |                                 |Cola Korn           |     ---        |https://www.echter-nordhaeuser.de/cocktails-co/longdrinks/korn-doppelkorn/korn-cola/|
   |                                 |                    |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
