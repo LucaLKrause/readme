@@ -202,12 +202,12 @@
   |                                 |Sex on the Beach    | Gutekueche     |https://www.gutekueche.at/sex-on-the-beach-cocktail-rezept-18119|
   |                                 |Bloody Mary         | Gutekueche     |https://www.gutekueche.at/sex-on-the-beach-cocktail-rezept-18119|
   | **3D-Modelle und Materialien**  |                    |                |      |
+  |                                 |VR-Game-Jam-Template|Valem Tutorials |https://github.com/ValemVR/VR-Game-Jam-Template      |
   |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  | **Skripte**                     |                    |                |      |
-  |                                 |                    |                |      |
-  |                                 |                    |                |      |
-  | **Shader-Graph**                |                    |                |      |
+  | **Skripte**                     |                    | Alle von Valem Tutorials| https://www.youtube.com/watch?v=apnfGuMI0Dc&list=PLuIdYvsj2nVOyXBFzNaDLoxbA6ecDBr38&index=24|
+  |                                 |AudioManager.cs     |                |      |
+  |                                 |PlayAudioFromAudioManager.cs |       |      |
+  | **Shader-Graph**                |UIAudio.cs          |                |      |
   |                                 |                    |                |      |
   |                                 |                    |                |      |
 
