@@ -67,51 +67,7 @@
 ### Dokumentation der Software
 
 
-```plantuml
-@startuml
 
-class Behälter {
-    - Dictionary<string, int> tagCounters
-    - int füllMengeMax = 350
-    - int füllMenge = 0
-    - GameObject flüssigkeitInhalt
-    - float startFill
-    - float currentFill
-    - float maxFill
-    - bool nurEinmal = false
-    - HashSet<string> booleanTags
-    - HashSet<string> füllMengeTags
-    - Verschiedene Booleans für Zutaten (z.B. istBraunerZucker, istEiswürfel, ...)
-    - GameObject eisPrefab
-    - GameObject crushedIcePrefab
-    - Transform spawnPoint
-    - GameObject Prefabs für Dekorationen (z.B. zitronePrefab, minzblattPrefab, ...)
-    - Transform Spawnpunkte für Dekorationen (z.B. scheibenSpawnPoint, minzblattSpawnPoint, ...)
-    - HashSet<GameObject> pendingObjects
-    - Dictionary<GameObject, Coroutine> activeCoroutines
-    
-    + void Start()
-    + void OnTriggerEnter(Collider other)
-    + void OnTriggerExit(Collider other)
-    + IEnumerator WaitBeforeSetBoolean(string tag, GameObject obj)
-    + void SpawnPrefab(GameObject prefab, Transform spawnPoint)
-    + void Update()
-    + void UpdateFill()
-    + void SetBooleanForTag(string tag)
-    + Dictionary<string, int> GetTagCounters()
-    + void SetzeBooleans(bool eiswürfel, bool crushedIce)
-    + void ErhalteInhalt(string tag, int menge)
-    + void SetIstMixer(bool mixerStatus)
-    + void SetIstBraunerZucker(bool value)
-    + void SetIstWeißerZucker(bool value)
-    + void SetIstSalz(bool value)
-    + void SetIstPfeffer(bool value)
-    + void SetIstTabasco(bool value)
-    + void SetIstWorcestersauce(bool value)
-}
-
-@enduml
-```
 
 ### Ordnerstruktur
 - **Assets/** → Enthält alle projektbezogenen Ressourcen und Assets.
