@@ -20,15 +20,15 @@
 
 *WIr haben Hauptsaechlich die PCs der Uni verwendet:*
 
-*Processor: Intel(R) Xeon(R) W-2235 3.8Ghz*
+  *Processor: Intel(R) Xeon(R) W-2235 3.8Ghz*
 
-*Grafikkarte: NVIDIA Quadro RTX 4000*
+  *Grafikkarte: NVIDIA Quadro RTX 4000*
 
-*Arbeitsspeicher: 32GB*
+  *Arbeitsspeicher: 32GB*
 
-*SDD: 2TB*
+  *SDD: 2TB*
 
-*HDD: 2TB*
+  *HDD: 2TB*
 
 *Software: Windows 11, !!!APP!!!*
 
